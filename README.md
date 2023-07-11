@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darey-OG
 - 👀 I’m interested in javascript and its applications to real life situations
-- 🌱 I’m currently learning javascript alonside react
+- 🌱 I’m currently learning javascript alongside react
 - 📫 How to reach me oludire@gmail.com
 
 <!---
