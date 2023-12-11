@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darey-OG
+- 👋 Hi, I’m Oludire Damilare
 - 👀 I’m interested in javascript and its applications to real life situations
 - 🌱 I’m currently learning javascript alongside react
 - 📫 How to reach me oludire@gmail.com
